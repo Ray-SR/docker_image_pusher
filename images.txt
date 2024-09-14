@@ -1,2 +1,3 @@
 node:20-alpine
 nginx:alpine
+python:3.11-slim
